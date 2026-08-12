@@ -4,6 +4,10 @@ An end-to-end analytics project using bilateral surface electromyography (sEMG) 
 
 🔗 **Live Dashboard:** https://acl-rehab-analytics.streamlit.app
 
+## Dashboard Preview
+
+![ACL Recovery Analytics Dashboard](assets/dashboard_preview.png)
+
 ## Project Overview
 
 Recovery after ACL reconstruction is highly individual. Group-level averages may hide meaningful differences in muscle activation between patients.
